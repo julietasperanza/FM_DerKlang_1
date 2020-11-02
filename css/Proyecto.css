@@ -255,7 +255,9 @@ td {
   .mi-videoAcercaDe {
     display: none; }
   .video3 {
-    display: none; } }
+    display: none; } 
+  .mi-Gif5 {
+	display: none; } }
 
 @media (min-width: 80px) and (max-width: 484px) {
   .mi-titulo1 {
@@ -284,6 +286,7 @@ td {
   .mi-videoAcercaDe {
     display: none; }
   .video3 {
-    display: none; } }
-
+    display: none; } 
+  .mi-Gif5 {
+	display: none; } }
 /*Responsive*/
