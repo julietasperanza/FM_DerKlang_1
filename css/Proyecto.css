@@ -65,7 +65,8 @@ header .container-fluid {
     width: 40px;
     height: 40px;
     padding: 0px;
-    margin: 5px; }
+    margin: 5px;
+    background: white; }
     .contenedorRedes .mi-img:hover {
       transform: translateY(-4px) scale(1.5);
       background-color: #00FF00;
@@ -248,7 +249,13 @@ td {
     padding: 5px;
     margin-top: 300px; }
   .mi-texto {
-    margin-right: 0px; } }
+    margin-right: 0px; }
+  .video {
+    display: none; }
+  .mi-videoAcercaDe {
+    display: none; }
+  .video3 {
+    display: none; } }
 
 @media (min-width: 80px) and (max-width: 484px) {
   .mi-titulo1 {
@@ -271,6 +278,12 @@ td {
     padding: 5px;
     margin-top: 500px; }
   .mi-texto {
-    margin-right: 0px; } }
+    margin-right: 0px; }
+  .video {
+    display: none; }
+  .mi-videoAcercaDe {
+    display: none; }
+  .video3 {
+    display: none; } }
 
 /*Responsive*/
